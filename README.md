@@ -31,6 +31,6 @@ Lending institutions face significant risk if they cannot monitor their loan por
 - **Term Strategy:** 36-month loans show higher repayment stability compared to 60-month terms, providing an opportunity to incentivize shorter-term lending.
 
 ## 📂 Repository Structure
-Bank_finance_dataset.csv: The raw dataset used for analysis.
-SQL Queries.doc: Production-ready SQL scripts for KPI calculation.
-Domain.doc: Deep-dive into banking terminology used (LTV, DTI, Amortization).
+- **Bank_finance_dataset.csv**: The raw dataset used for analysis.
+- **SQL Queries.doc**: Production-ready SQL scripts for KPI calculation.
+- **Domain.doc:** Deep-dive into banking terminology used (LTV, DTI, Amortization).
